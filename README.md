@@ -1,5 +1,8 @@
 # Low-Level-Designs
-Learn Low-Level Design (LLD) and prepare for interviews
+
+- Low-Level Design (LLD) stands at the core of software development.
+- It provides a crucial bridge between a High-Level Solution and the practicality of its implementation. 
+- This will assess your ability to create scalable, flexible, and maintainable software
 
 ## Fundamental Concepts
 
