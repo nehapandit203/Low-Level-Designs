@@ -21,7 +21,7 @@ Learn Low-Level Design (LLD) and prepare for interviews
 
 ## Refrences
 
-| Left-aligned | Center-aligned | Right-aligned |
-| :---         |     :---:      |          ---: |
-| git status   | git status     | git status    |
-| git diff     | git diff       | git diff      |
+| Topic         | Link |
+| :---         |     :---:      |   
+| git status   | git status     | 
+| git diff     | git diff       | 
