@@ -23,5 +23,5 @@ Learn Low-Level Design (LLD) and prepare for interviews
 
 | Topic         | Link |
 | :---         |     :---:      |   
-| git status   | git status     | 
+| Books   | git status     | 
 | git diff     | git diff       | 
