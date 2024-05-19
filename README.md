@@ -21,9 +21,7 @@ Learn Low-Level Design (LLD) and prepare for interviews
 
 ## Refrences
 
-```markdown
-| Header 1 | Header 2 |
-|----------|----------|
-| Data 1   | Data 2   |
-| Data 3   | Data 4   |
-```
+| Left-aligned | Center-aligned | Right-aligned |
+| :---         |     :---:      |          ---: |
+| git status   | git status     | git status    |
+| git diff     | git diff       | git diff      |
