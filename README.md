@@ -50,7 +50,7 @@ https://www.youtube.com/watch?v=EavNLiTk-eo
     - Gather nouns or the nouns for which we store info and create a table for that.
 * Keep table name in the plural and in snake case.
 * Everything for which you have to store info about the table(which is not a relationship with other entities) creates a that as column of the table.
-* Represent Relationship:
+* Represent Relationship
       - Define the relationship about which entity
       - Define which relation b/w entities
       - Figure out cardinality
