@@ -54,9 +54,8 @@ https://www.youtube.com/watch?v=EavNLiTk-eo
       - Define the relationship about which entity
       - Define which relation b/w entities
       - Figure out cardinality
-          - 1:1 => we need FK, put FK on any side
-          - 1:M/M:1 => we need Fk, FK on many sides
-          - M:M => Mapping table or lookup table 
+      
+         
 * Even relationships can have an attribute in a mapping table
 
 ## Low-Level Design Interview Problems
