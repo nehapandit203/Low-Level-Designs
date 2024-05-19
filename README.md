@@ -5,7 +5,7 @@
 - This will assess your ability to create scalable, flexible, and maintainable software
 
 ## Fundamental Concepts
-
+~~~ TO DO ~~~
 
 ## Design Patterns
 
