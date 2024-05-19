@@ -20,11 +20,11 @@
     - Ask What needs to be included in the current  system and future scope.
     - Don't assume anything and clarify with the interviewer.
     - Ask who is going to call the system.
-    - 
+      
 * Visualize the system starting from outside to inside and identify Components, Objects, and behaviors:
     -  Nouns can be Entities
     -  verbs can be your behavior/functions
-    -  
+      
 * Find the entities(classes) of the system and Identify the  relationship(Is a/Has a), and cardinality between them between different classes.
   
 * Based on Entities and Relationships draw Schema Diagram(ER Diagram- optional)
