@@ -42,8 +42,6 @@
 6) Represent cardinality in the database
 7) Finalizing Table structure
 
-https://www.youtube.com/watch?v=EavNLiTk-eo
-
 * Gather Requirements/Clarify
 * Class Diagram
 * Schema diagram
@@ -69,5 +67,5 @@ https://www.youtube.com/watch?v=EavNLiTk-eo
 
 | Topic         | Link |
 | :---         |     :---:      |   
-| Books   | git status     | 
+| Schema Design   | https://www.youtube.com/watch?v=EavNLiTk-eo     | 
 | git diff     | git diff       | 
