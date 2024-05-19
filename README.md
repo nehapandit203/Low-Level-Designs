@@ -32,7 +32,7 @@
 
   Note: Some of them have hidden DSA Problems interviewer may ask you. Take care of time consideration.
   
-## Schema Design Approach
+## Schema Design Tips/Approach
 
 * Gather Requirements: Gather Requirements/Clarify
 * Class Diagram: Find Entities and attributes
@@ -43,7 +43,7 @@
 * Cardinality of Relationships/ Foreign key : 
     - Define the relationship about which entity.
     - Define which relation b/w entities
-    - Figure out cardinality:  Represent cardinality in the database, Lookup tables/or mapping tables follow below
+    - Figure out cardinality: Represent cardinality in the database, Lookup tables/or mapping tables follow below
         - 1:1 => we need FK, put FK on any side
         - 1:M/M:1 => we need Fk, FK on many sides
         - M:M => Mapping table or lookup table 
