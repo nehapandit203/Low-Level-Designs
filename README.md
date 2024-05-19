@@ -36,10 +36,10 @@
 
 * Gather Requirements : Gather Requirements/Clarify
 * Class Diagram : Find Entities and attributes
-* Schema diagram :
-      - Gather nouns or the nouns for which we store info and create a table for that.
-      - Keep table name in the plural and in snake case.
-      - Everything for which you have to store info about the table(which is not a relationship with other entities) creates that as column of the table.
+* Schema diagram : 
+    - Gather nouns or the nouns for which we store info and create a table for that.
+    - Keep table name in the plural and in snake case.
+    - Everything for which you have to store info about the table(which is not a relationship with other entities) creates that as the column of the table.
 * Cardinality of Relationships/ Foreign key : 
     - Define the relationship about which entity.
     - Define which relation b/w entities
