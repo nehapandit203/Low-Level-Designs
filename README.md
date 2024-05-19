@@ -14,33 +14,6 @@
 - [UML Class Diagram Tutorial](https://www.visual-paradigm.com/guide/uml-unified-modeling-language/uml-class-diagram-tutorial/)
 - [Relationships in UML](https://blog.visual-paradigm.com/what-are-the-six-types-of-relationships-in-uml-class-diagrams/)
 
-## Schema Design Approach
-
-1) Gather Requirements
-2) Find Entities
-3) Find Attributes
-4) Cardinality of Relationships/ Foreign key
-5) Lookup tables/or mapping tables
-6) Represent cardinality in the database
-7) Finalizing Table structure
-
-https://www.youtube.com/watch?v=EavNLiTk-eo
-
-*Gather Requirements/Clarify
-* Class Diagram
-* Schema diagram
-    - Gather nouns or the nouns for which we store info and create a table for that.
-* Keep table name in the plural and in snake case.
-* Everything for which you have to store info about the table(which is not a relationship with other entities) creates a that as column of the table.
-* Represent Relationship:
-      - Define the relationship about which entity
-      - Define which relation b/w entities
-      - Figure out cardinality
-          - 1:1 => we need FK, put FK on any side
-          - 1:M/M:1 => we need Fk, FK on many sides
-          - M:M => Mapping table or lookup table 
-* Even relationships can have an attribute in a mapping table
-
 ## How to approach Low-Level Design problems in Interviews
 * **Clarify and Gather Requirements:**
     - Ask Relevant/Good Questions which help in understanding sytem features and behavior.
@@ -59,8 +32,34 @@ https://www.youtube.com/watch?v=EavNLiTk-eo
 
   Note: Some of them have hidden DSA Problems interviewer may ask you. Take care of time consideration.
   
-## Low-Level Design Interview Problems
+## Schema Design Approach
 
+1) Gather Requirements
+2) Find Entities
+3) Find Attributes
+4) Cardinality of Relationships/ Foreign key
+5) Lookup tables/or mapping tables
+6) Represent cardinality in the database
+7) Finalizing Table structure
+
+https://www.youtube.com/watch?v=EavNLiTk-eo
+
+* Gather Requirements/Clarify
+* Class Diagram
+* Schema diagram
+    - Gather nouns or the nouns for which we store info and create a table for that.
+* Keep table name in the plural and in snake case.
+* Everything for which you have to store info about the table(which is not a relationship with other entities) creates a that as column of the table.
+* Represent Relationship:
+      - Define the relationship about which entity
+      - Define which relation b/w entities
+      - Figure out cardinality
+          - 1:1 => we need FK, put FK on any side
+          - 1:M/M:1 => we need Fk, FK on many sides
+          - M:M => Mapping table or lookup table 
+* Even relationships can have an attribute in a mapping table
+
+## Low-Level Design Interview Problems
 
 
 
