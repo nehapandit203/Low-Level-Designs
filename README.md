@@ -32,9 +32,11 @@
       
 * Create Class Diagram(optional ask interviewer)  and Code against interfaces
   
-* Keep in mind to follow the SOLID Principle, Design Pattern, and OOPS wherever possible
+* Once thoughts are structured start coming, keep in mind to follow the SOLID Principle, Design Pattern, and OOPS wherever possible
+  
+* Clearly explain your thought process and design decisions
 
-  Note: Some of them have hidden DSA Problem 
+  Note: Some of them have hidden DSA Problems. Take care of time consideration in mind
 
 ## Low-Level Design Interview Problems
 
