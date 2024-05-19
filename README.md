@@ -58,7 +58,9 @@
 
 ## Refrences
 
-| Topic         | Link |
-| :---         |     :---:      |   
-| Schema Design   | https://www.youtube.com/watch?v=EavNLiTk-eo     | 
-| git diff     | git diff       | 
+| Topic             | Link |
+| :---              |     :---:      |   
+| Schema Design     | https://www.youtube.com/watch?v=EavNLiTk-eo     | 
+| To Do             | * Schema 
+                      * Pen Design
+                      * Creation design Pattern| 
