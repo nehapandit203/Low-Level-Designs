@@ -27,7 +27,7 @@
 * **Schema Diagram :** Based on Entities and Relationships draw Schema Diagram(ER Diagram- optional)
     - Each class in the class diagram becomes a table in the Schema Diagram and the relationship between classes becomes the multiplicity between tables.
 * **UML Diagram :** Create Class Diagram(optional ask interviewer)  and Code against interfaces
-* **Code :** Once thoughts are structured start coding, keep in mind to follow the SOLID Principle, Design Pattern, and OOPS wherever possible
+* **Actual Code :** Once thoughts are structured start coding, keep in mind to follow the SOLID Principle, Design Pattern, and OOPS wherever possible
 * **Explanation:** Clearly explain your thought process and design decisions to the interviewer.
 
   Note: Some of them have hidden DSA Problems interviewer may ask you. Take care of time consideration.
@@ -51,11 +51,12 @@ https://www.youtube.com/watch?v=EavNLiTk-eo
 * Keep table name in the plural and in snake case.
 * Everything for which you have to store info about the table(which is not a relationship with other entities) creates a that as column of the table.
 * Represent Relationship
-      - Define the relationship about which entity
-      - Define which relation b/w entities
-      - Figure out cardinality
-      
-         
+    - Define the relationship about which entity.
+    - Define which relation b/w entities
+    - Figure out cardinality
+        - 1:1 => we need FK, put FK on any side
+        - 1:M/M:1 => we need Fk, FK on many sides
+        - M:M => Mapping table or lookup table 
 * Even relationships can have an attribute in a mapping table
 
 ## Low-Level Design Interview Problems
