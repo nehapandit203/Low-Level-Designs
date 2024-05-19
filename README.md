@@ -22,7 +22,7 @@
     - Ask who is going to call the system.
 * **System Visualisation:** Visualize the system starting from outside to inside and identify Components, Objects, and behaviors:
     -  Nouns can be Entities
-    -  verbs can be your behavior/functions
+    -  Verbs can be your behavior/functions
 * **Identify Components:** Find the entities(classes) of the system and Identify the  relationship(Is a/Has a), and cardinality between them between different classes.
 * **Schema Diagram :** Based on Entities and Relationships draw Schema Diagram(ER Diagram- optional)
     - Each class in the class diagram becomes a table in the Schema Diagram and the relationship between classes becomes the multiplicity between tables.
