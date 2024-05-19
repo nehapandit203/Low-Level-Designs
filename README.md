@@ -20,23 +20,46 @@
     - Ask What needs to be included in the current  system and future scope.
     - Don't assume anything and clarify with the interviewer.
     - Ask who is going to call the system.
-      
-* Visualize the system starting from outside to inside and identify Components, Objects, and behaviors:
+* **System Visualisation:** Visualize the system starting from outside to inside and identify Components, Objects, and behaviors:
     -  Nouns can be Entities
     -  verbs can be your behavior/functions
-      
-* Find the entities(classes) of the system and Identify the  relationship(Is a/Has a), and cardinality between them between different classes.
-  
-* Based on Entities and Relationships draw Schema Diagram(ER Diagram- optional)
+* **Identify Components:** Find the entities(classes) of the system and Identify the  relationship(Is a/Has a), and cardinality between them between different classes.
+* **Schema Diagram :** Based on Entities and Relationships draw Schema Diagram(ER Diagram- optional)
     - Each class in the class diagram becomes a table in the Schema Diagram and the relationship between classes becomes the multiplicity between tables.
-      
-* Create Class Diagram(optional ask interviewer)  and Code against interfaces
-  
-* Once thoughts are structured start coding, keep in mind to follow the SOLID Principle, Design Pattern, and OOPS wherever possible
-  
-* Clearly explain your thought process and design decisions to the interviewer.
+* **UML Diagram :** Create Class Diagram(optional ask interviewer)  and Code against interfaces
+* **Code :** Once thoughts are structured start coding, keep in mind to follow the SOLID Principle, Design Pattern, and OOPS wherever possible
+* **Explanation:** Clearly explain your thought process and design decisions to the interviewer.
 
-  Note: Some of them have hidden DSA Problems. Take care time consideration.
+  Note: Some of them have hidden DSA Problems. Take care of time consideration.
+  
+## Schema Design Approach
+
+1) Gather Requirements
+2) Find Entities
+3) Find Attributes
+4) Cardinality of Relationships/ Foreign key
+5) lookup tables/or mapping tables
+6)Represent cardinality in the database
+7) Finalizing Table structure
+
+https://www.youtube.com/watch?v=EavNLiTk-eo
+
+Naman Steps:
+1)Gather Requirements/Clarify
+1.1) Class Diagram
+1.3) Schema diagram
+2) Gather nouns or the nouns for which we store info and create a table for that.
+3)table name in the plural and in snake case
+4) Everything for which you have to store info about the table(which is not a relationship with other entities) creates a that as column of the table.
+5) Represent Relationship:
+a) Define the relationship about which entity
+b)Define which relation b/w entities
+c)Figure out cardinality
+     1:1 =we need FK, put FK on any side
+     1:M/M:1 =we need Fk, FK on many sides
+      M:M = Mapping table or lookup table 
+6) Even relationships can have an attribute in mapping table
+
 
 ## Low-Level Design Interview Problems
 
