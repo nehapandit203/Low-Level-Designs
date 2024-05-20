@@ -41,8 +41,7 @@
 * **Add Primary Key :** In all the tables that you created just add the primary key.
   - Don't care about Foreign keys now.
   - Don't define the relationship now.
-* **Identify Relationship Using Cardinality :**
-- Find two entities and decide how they are related ( 1:1, 1:M, M:1, M:M )
+* **Identify Relationship Using Cardinality :** Find two entities and decide how they are related ( 1:1, 1:M, M:1, M:M )
     - go left to right put 1 on left side
     - go right to left and put 1 on the right side
     - if M is on any side put M on that side
