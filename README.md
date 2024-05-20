@@ -38,7 +38,7 @@
       - Find all the nouns in the tables.
       - For each noun just ask if we have to store data about that entity, if yes create a table.
       - Keep table name in the plural, column name in singular, and in snake case.
-* **Add Primary Keya :** In all the tables that you created just add the primary key
+* **Add Primary Key :** In all the tables that you created just add the primary key,
       - Don't care about Foreign keys now.
       - Don't define the relationship now.
 * **Identify Relationship Using Cardinality :**
