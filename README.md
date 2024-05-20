@@ -33,21 +33,27 @@
   
 ## Schema Design Tips/Approach
 
-* Gather Requirements : Gather Requirements/Clarify
-* Class Diagram : Find Entities and attributes
-* Schema diagram : 
-    - Gather nouns or the nouns for which we store info and create a table for that.
-    - Keep table name in the plural and in snake case.
-    - Everything for which you have to store info about the table(which is not a relationship with other entities) creates that as the column of the table.
-* Cardinality of Relationships/ Foreign key : 
-    - Define the relationship about which entity.
-    - Define which relation b/w entities
+* **Gather Requirements :** Gather Requirements/Clarify
+* **Create Tables and their attributes as columns :**
+      - Find all the nouns in the tables.
+      - For each noun just ask if we have to store data about that entity, if yes create a table.
+      - Keep table name in the plural, column name in singular, and in snake case.
+* **Add Primary Keya :** In all the tables that you created just add the primary key
+      - Don't care about Foreign keys now.
+      - Don't define the relationship now.
+* **Identify Relationship Using Cardinality :**
+      - Find two entities and decide how they are related ( 1:1, 1:M, M:1, M:M )
+          - go left to right put 1 on left side
+          - go right to left and put 1 on the right side
+          - if M is on any side put M on that side
+* **Cardinality of Relationships/ Foreign key :**
     - Figure out cardinality: Represent cardinality in the database, Lookup tables/or mapping tables follow below
         - 1:1 => we need FK, put FK on any side
-        - 1:M/M:1 => we need Fk, FK on many sides
-        - M:M => Mapping table or lookup table 
-    - Even relationships can have an attribute in a mapping table
-* Finalizing Table structure
+        - 1:M/M:1 => we need Fk,put FK on many sides
+        - M:M => New Mapping table or lookup table
+        - In 1:M or M:1 where a lot of entries are not part of the relation create a new table(Spare relation-The disadvantage is increased join think properly).
+        - There can be cases when we have to store info about the relation/mapping table so create a separate table(eg: husband, wife, marriage detail)
+* **Finalizing Table structure**
 
 ## Low-Level Design Interview Problems
 
