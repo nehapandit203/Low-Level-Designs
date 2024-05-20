@@ -43,9 +43,9 @@
   - Don't define the relationship now.
 * **Identify Relationship Using Cardinality :**
 - Find two entities and decide how they are related ( 1:1, 1:M, M:1, M:M )
-      - go left to right put 1 on left side
-      - go right to left and put 1 on the right side
-      - if M is on any side put M on that side
+    - go left to right put 1 on left side
+    - go right to left and put 1 on the right side
+    - if M is on any side put M on that side
 * **Cardinality of Relationships/ Foreign key :**
     - Figure out cardinality: Represent cardinality in the database, Lookup tables/or mapping tables follow below
         - 1:1 => we need FK, put FK on any side
