@@ -14,11 +14,13 @@
 - [Relationships in UML](https://blog.visual-paradigm.com/what-are-the-six-types-of-relationships-in-uml-class-diagrams/)
 
 ## How to approach Low-Level Design problems in Interviews
-* **Clarify and Gather Requirements: (5-10 mins)**
+#### After getting problem (5-10 mins)
+* **Clarify and Gather Requirements: **
     - Ask Relevant/Good Questions which help in understanding sytem features and behavior.
     - Ask What needs to be included in the current  system and future scope.
     - Don't assume anything and clarify with the interviewer.
     - Ask who is going to call the system.
+#### Getting the solution (10-15 mins)
 * **System Visualisation:** Visualize the system starting from outside to inside and identify Components, Objects, and behaviors:
     -  Nouns can be Entities
     -  Verbs can be your behavior/functions
@@ -26,6 +28,7 @@
 * **Schema Diagram :** Based on Entities and Relationships draw Schema Diagram(ER Diagram- optional)
     - Each class in the class diagram becomes a table in the Schema Diagram and the relationship between classes becomes the multiplicity between tables.
 * **UML Diagram :** Create Class Diagram(optional ask interviewer)  and Code against interfaces
+#### Coding (60-75 mins)
 * **Actual Code(45-60 mins) :** Once thoughts are structured start coding, keep in mind to follow the SOLID Principle, Design Pattern, and OOPS wherever possible
 * **Explanation:** Clearly explain your thought process and design decisions to the interviewer.
 
