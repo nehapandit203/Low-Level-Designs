@@ -17,7 +17,7 @@
 
 #### *Step 1: After getting problem (5-10 mins)*
 
-* **Clarify and Gather Requirements: **
+* **Clarify and Gather Requirements:**
     - Ask Relevant/Good Questions which help in understanding sytem features and behavior.
     - Ask What needs to be included in the current  system and future scope.
     - Don't assume anything and clarify with the interviewer.
