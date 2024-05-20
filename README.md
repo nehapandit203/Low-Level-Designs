@@ -31,10 +31,10 @@
 
   Note: Some of them have hidden DSA Problems interviewer may ask you. Take care of time consideration.
   
-## Schema Design Tips/Approach
+## Schema Design Approach
 
 * **Gather Requirements :** Gather Requirements/Clarify
-* **Create Tables and their attributes as columns :**
+* **Create tables and their attributes as columns :**
       - Find all the nouns in the tables.
       - For each noun just ask if we have to store data about that entity, if yes create a table.
       - Keep table name in the plural, column name in singular, and in snake case.
