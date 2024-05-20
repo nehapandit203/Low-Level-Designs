@@ -35,7 +35,7 @@
   
 #### *Step 3 : Actual Coding (60-75 mins)*
 
-* **Start Code(45-60 mins) :** Once thoughts are structured start coding, keep in mind to follow the SOLID Principle, Design Pattern, and OOPS wherever possible
+* **Start Code :** Once thoughts are structured start coding, keep in mind to follow the SOLID Principle, Design Pattern, and OOPS wherever possible
 * **Explanation:** Clearly explain your thought process and design decisions to the interviewer.
 
   Note: Some of them have hidden DSA Problems interviewer may ask you. Take care of time consideration.
