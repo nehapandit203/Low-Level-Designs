@@ -38,14 +38,14 @@
       - Find all the nouns in the tables.
       - For each noun just ask if we have to store data about that entity, if yes create a table.
       - Keep table name in the plural, column name in singular, and in snake case.
-* **Add Primary Key :** In all the tables that you created just add the primary key,
-      - Don't care about Foreign keys now.
-      - Don't define the relationship now.
+* **Add Primary Key :** In all the tables that you created just add the primary key.
+  - Don't care about Foreign keys now.
+  - Don't define the relationship now.
 * **Identify Relationship Using Cardinality :**
-      - Find two entities and decide how they are related ( 1:1, 1:M, M:1, M:M )
-          - go left to right put 1 on left side
-          - go right to left and put 1 on the right side
-          - if M is on any side put M on that side
+- Find two entities and decide how they are related ( 1:1, 1:M, M:1, M:M )
+      - go left to right put 1 on left side
+      - go right to left and put 1 on the right side
+      - if M is on any side put M on that side
 * **Cardinality of Relationships/ Foreign key :**
     - Figure out cardinality: Represent cardinality in the database, Lookup tables/or mapping tables follow below
         - 1:1 => we need FK, put FK on any side
