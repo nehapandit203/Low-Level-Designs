@@ -61,15 +61,13 @@
 
 
 ## Refrences
-
-| Topic             | Link |
-| Schema Design     | https://www.youtube.com/watch?v=EavNLiTk-eo  |
-| Design Pattern    | https://www.interviewbit.com/design-patterns-interview-questions/#factory-design-pattern    | 
-|                   | Singleton Pattern :
-|                   |
-
-
  ~~~
+ LLD Design:
+    https://workat.tech/machine-coding/article/how-to-ace-machine-coding-round-hi8lnpp8tlmo
+ Design Pattern
+    https://www.interviewbit.com/design-patterns-interview-questions/#factory-design-pattern
+ Schema Design
+    https://www.youtube.com/watch?v=EavNLiTk-eo
  TO DO :
  * Pen Design
  * Practice Schema Design
