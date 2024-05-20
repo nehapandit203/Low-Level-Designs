@@ -15,7 +15,7 @@
 
 ## How to approach Low-Level Design problems in Interviews
 
-#### *After getting problem (5-10 mins)*
+#### *Step 1: After getting problem (5-10 mins)*
 
 * **Clarify and Gather Requirements: **
     - Ask Relevant/Good Questions which help in understanding sytem features and behavior.
@@ -23,7 +23,7 @@
     - Don't assume anything and clarify with the interviewer.
     - Ask who is going to call the system.
       
-#### *Getting the solution (10-15 mins)*
+#### *Step 2: Getting the solution (10-15 mins)*
 
 * **System Visualisation:** Visualize the system starting from outside to inside and identify Components, Objects, and behaviors:
     -  Nouns can be Entities
@@ -33,7 +33,7 @@
     - Each class in the class diagram becomes a table in the Schema Diagram and the relationship between classes becomes the multiplicity between tables.
 * **UML Diagram :** Create Class Diagram(optional ask interviewer)  and Code against interfaces
   
-#### *Actual Coding (60-75 mins)*
+#### *Step 3 : Actual Coding (60-75 mins)*
 
 * **Start Code(45-60 mins) :** Once thoughts are structured start coding, keep in mind to follow the SOLID Principle, Design Pattern, and OOPS wherever possible
 * **Explanation:** Clearly explain your thought process and design decisions to the interviewer.
