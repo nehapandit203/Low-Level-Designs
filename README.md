@@ -64,7 +64,8 @@
 
 | Topic             | Link |
 | :---              |     :---:      |   
-| Schema Design     | https://www.youtube.com/watch?v=EavNLiTk-eo     | 
+| Schema Design     | https://www.youtube.com/watch?v=EavNLiTk-eo  
+https://www.interviewbit.com/design-patterns-interview-questions/#factory-design-pattern    | 
 
  ~~~
  \TO DO :
