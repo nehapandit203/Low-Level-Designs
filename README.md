@@ -64,12 +64,22 @@
 
 | Topic             | Link |
 | :---              |     :---:      |   
-| Schema Design     | https://www.youtube.com/watch?v=EavNLiTk-eo  
-https://www.interviewbit.com/design-patterns-interview-questions/#factory-design-pattern    | 
+| Schema Design     | https://www.youtube.com/watch?v=EavNLiTk-eo  |
+| Design Pattern    | https://www.interviewbit.com/design-patterns-interview-questions/#factory-design-pattern    | 
+|                   |* Singleton Pattern|
+|                    ||
+|                    ||
+|||
+|||
+|||
+|||
+qq	qq
+![image](https://github.com/nehapandit203/Low-Level-Designs/assets/29502326/9a17c8b0-f320-4d02-9f4f-9d80cdfa4b28)
+
 
  ~~~
- \TO DO :
+ TO DO :
  * Pen Design
- * Schema Design
+ * Practice Schema Design
  * Creation Design Pattern
 ~~~
