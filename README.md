@@ -67,11 +67,6 @@
 
 ## Low-Level Design Interview Problems
 
-
-
-
-**Github link: https://github.com/nehapandit203/low-level-design-problems**
-
 - [Tic-Tac-Toe](https://github.com/nehapandit203/low-level-design-problems/blob/main/src/main/java/tictactoe/tic-tac-toe-readme.md)
 
 ## Refrences
