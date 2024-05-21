@@ -7,6 +7,8 @@
 ## Fundamental Concepts
     TO DO
 ## Design Patterns
+- [Coursera - Design Patterns](https://www.coursera.org/learn/design-patterns)
+- [Github - Design Pattern](https://github.com/nehapandit203/low-level-design-problems/blob/main/src/main/java/design-patterns/design-pattern-readme.md)
 
 ## UML
 - [Derek Banas - UML Playlist](https://www.youtube.com/playlist?list=PLGLfVvz_LVvQ5G-LdJ8RLqe-ndo7QITYc)
@@ -69,6 +71,8 @@
 
 
 **Github link: https://github.com/nehapandit203/low-level-design-problems**
+
+- [Tic-Tac-Toe](https://github.com/nehapandit203/low-level-design-problems/blob/main/src/main/java/tictactoe/tic-tac-toe-readme.md)
 
 ## Refrences
  ~~~
