@@ -67,7 +67,8 @@
 
 ## Low-Level Design Interview Problems
 
-- [Tic-Tac-Toe](https://github.com/nehapandit203/low-level-design-problems/blob/main/src/main/java/tictactoe/tic-tac-toe-readme.md)
+- [Tic-Tac-Toe](https://github.com/nehapandit203/low-level-design-problems/tree/main/src/main/java/tic_tac_toe)
+- [Snake-And-Ladder](https://github.com/nehapandit203/low-level-design-problems/tree/main/src/main/java/snake_ladder)
 
 ## Refrences
  ~~~
