@@ -58,8 +58,8 @@
     - if M is on any side put M on that side
 * **Cardinality of Relationships/ Foreign key :**
     - Figure out cardinality: Represent cardinality in the database, Lookup tables/or mapping tables follow below
-        - 1:1 => we need FK, put FK on any side
-        - 1:M/M:1 => we need Fk,put FK on many sides
+        - 1:1 => we need FK, put Foreign Key on any side
+        - 1:M/M:1 => we need Fk,put Foreign Key on many sides
         - M:M => New Mapping table or lookup table
         - In 1:M or M:1 where a lot of entries are not part of the relation create a new table(Spare relation-The disadvantage is increased join think properly).
         - There can be cases when we have to store info about the relation/mapping table so create a separate table(eg: husband, wife, marriage detail)
