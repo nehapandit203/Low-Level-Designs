@@ -77,8 +77,5 @@
     https://www.interviewbit.com/design-patterns-interview-questions/#factory-design-pattern
  Schema Design
     https://www.youtube.com/watch?v=EavNLiTk-eo
- TO DO :
- * Pen Design
- * Practice Schema Design
- * Creation Design Pattern
+
 ~~~
