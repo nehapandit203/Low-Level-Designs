@@ -72,11 +72,7 @@
 
 ## Refrences
  ~~~
- LLD Design:
-    https://workat.tech/machine-coding/article/how-to-ace-machine-coding-round-hi8lnpp8tlmo
- Design Pattern
-    https://www.interviewbit.com/design-patterns-interview-questions/#factory-design-pattern
- Schema Design
-    https://www.youtube.com/watch?v=EavNLiTk-eo
-
+ LLD Design: https://workat.tech/machine-coding/article/how-to-ace-machine-coding-round-hi8lnpp8tlmo
+ Design Pattern: https://www.interviewbit.com/design-patterns-interview-questions/#factory-design-pattern
+ Schema Design: https://www.youtube.com/watch?v=EavNLiTk-eo
 ~~~
