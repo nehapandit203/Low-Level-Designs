@@ -75,4 +75,6 @@
  LLD Design: https://workat.tech/machine-coding/article/how-to-ace-machine-coding-round-hi8lnpp8tlmo
  Design Pattern: https://www.interviewbit.com/design-patterns-interview-questions/#factory-design-pattern
  Schema Design: https://www.youtube.com/watch?v=EavNLiTk-eo
+Command design:
+https://naveen-metta.medium.com/mastering-the-command-pattern-in-java-a-comprehensive-guide-to-flexible-code-design-and-advanced-d6d7b2748c11
 ~~~
